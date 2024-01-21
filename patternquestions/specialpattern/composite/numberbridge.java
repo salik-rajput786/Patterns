@@ -1,4 +1,6 @@
 package patternquestions.specialpattern.composite;
+// this code will work for 1 to 5 number only 
+// so get n upto 5 only 
 
 import java.util.Scanner;
 
